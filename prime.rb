@@ -1,5 +1,5 @@
 def prime?(number)
-  start = 3
+  start = 2
   if number > 1
     range = (start..number-1).to_a
     range.none? do |x|
