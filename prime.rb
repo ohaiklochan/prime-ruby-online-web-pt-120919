@@ -3,5 +3,6 @@ def prime?(number)
     return false
   elsif number <= 3
     return true
+  else 
   end
 end
